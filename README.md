@@ -1,7 +1,7 @@
-Overview
+#Overview
 This SQL dump file contains the structure and data for the dragonhousedb database. The database is designed to manage information related to a hotel system, including accommodation details, reservations, guests, payments, and more. This file was generated using phpMyAdmin version 5.2.1 and is compatible with MariaDB server version 10.4.32.
 
-Database Information
+#Database Information
 Host: 127.0.0.1
 Generation Time: Aug 19, 2024 at 01:39 PM
 Server Version: 10.4.32-MariaDB
